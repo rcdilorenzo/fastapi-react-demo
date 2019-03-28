@@ -1,0 +1,3 @@
+fastapi==0.10.1
+toolz==0.9.0
+uvicorn==0.6.1
